@@ -11,7 +11,7 @@
     <title>Title</title>
 </head>
 <body>
-<h1>Add friend information</h1>
+<h1>information</h1>
 <h2>text input</h2>
 <form class="row g-3" name = "form" action="form_ok.jsp"   method ="post">
     <div class = "col-md-6">
